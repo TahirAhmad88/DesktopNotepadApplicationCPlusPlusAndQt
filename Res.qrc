@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Res/circle-info-solid-full.svg</file>
+        <file>Res/circle-xmark-regular-full.svg</file>
+        <file>Res/clipboard-regular-full.svg</file>
+        <file>Res/copy-solid-full.svg</file>
+        <file>Res/file-export-solid-full.svg</file>
+        <file>Res/file-solid-full.svg</file>
+        <file>Res/floppy-disk-solid-full.svg</file>
+        <file>Res/folder-open-solid-full.svg</file>
+        <file>Res/font-solid-full.svg</file>
+        <file>Res/paint-roller-solid-full.svg</file>
+        <file>Res/palette-solid-full.svg</file>
+        <file>Res/print-solid-full.svg</file>
+        <file>Res/rotate-left-solid-full.svg</file>
+        <file>Res/rotate-right-solid-full.svg</file>
+        <file>Res/scissors-solid-full.svg</file>
+    </qresource>
+</RCC>
